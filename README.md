@@ -1,5 +1,5 @@
 # Amazon-Sales-Analysis-Reports - 
-Performed EDA on the data sets,performed data cleaning and transformation.
+This project aims to conduct a thorough exploratory analysis of the Amazon Dataset. Through the utilization of data visualization techniques and data analysis methods, our goal is to unearth valuable insights and patterns hidden within the dataset.
 
 **Insights**
 
